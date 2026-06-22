@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Hazmi 👋
 
-<!--
-**hazm092/hazm092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud security learner building hands-on skills in AWS, Python, and Terraform.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🛡️ AWS Solutions Architect – Associate (exam: July 31, 2026)
+- 📂 Building a portfolio of cloud security projects
+- 🔐 Automating IAM audits with Python + boto3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My latest project
+[*IAM User Activity Scanner*](https://github.com/hazm092/hzm-Journey/tree/master/iam-scanner)  
+Python tool that detects inactive IAM users and unused access keys – improving security oversight.
+
+## Skills
+- *AWS:* IAM, EC2, S3, VPC, Security Groups, CLI
+- *Linux:* Ubuntu, bash, file permissions
+- *Python:* automation, boto3
+- *Git/GitHub:* version control, branches, pull requests
+
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/ahmed-hazmi-nayeem-440649417)
+- [Email](ahmed.hazmi092@gmail.com)
